@@ -1,0 +1,185 @@
+*
+{
+    font-size: 12px;
+}
+
+body
+{
+    background-color: #f0f0f0;
+}
+
+main
+{
+    width: 100%;
+    height: 700px;
+    text-align: center;
+}
+
+#phone_pic
+{
+    margin-left: 15%;
+    margin-top: 5%;
+    height: 600px;
+    width: 35%;
+    float: left;
+}
+
+#content
+{
+    margin : 5px;
+    border : 1px solid lightgray;
+    margin-top: 5%;
+    margin-right: 15%;
+    height: 380px;
+    width: 21%;
+    background-color: white;
+    float: left;
+    text-align: center;
+}
+
+#logo
+{
+    margin-top: 20px;
+}
+
+input
+{
+    width: 75%;
+    height: 35px;
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+#login
+{
+    color: white;
+    background-color: rgb(83, 200, 204);
+    margin-top: 5px;
+    width: 75%;
+    height: 35px;
+    border-radius: 5px;
+    border:none;
+}
+
+
+#line
+{
+    margin-top: 10px;
+    width: 100%;
+}
+
+#left
+{
+    width: 28.5%;
+    float: left;
+    border-top: 2px solid gray;
+    margin-top: 10px;
+    margin-left: 12%;
+}
+
+#center
+{
+    float: left;
+    width: 20%;
+}
+#right
+{
+    width: 28.5%;
+    float: left;
+    border-top: 2px solid gray;
+    margin-top: 10px;
+}
+
+
+#create_account
+{
+    float: left;
+    margin-right: 15%;
+    text-align: center;
+    background-color: white;
+    height: 70px;
+    width: 21%;
+
+    border: 1px solid lightgray;
+    margin: 3px 5px 5px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#inner
+{
+    margin : 0 auto;
+}
+#download_app
+{
+    float: left;
+    margin-right: 15%;
+    text-align: center;
+    height: 130px;
+    width: 21%;
+}
+
+footer
+{
+    text-align: center;
+    color: gray;
+}
+
+li
+{
+    list-style-type: none;
+    display: inline-block;
+}
+
+li a
+{
+    padding: 6px;
+    text-align: center;
+    text-decoration: none;
+    color: gray;
+    font-size: 14.5px;
+}
+
+#create_account a
+{
+    text-decoration: none;
+    color: blue;
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+}
+
+select
+{
+    border: none;
+}
+
+
+#facebook_login
+{
+    color: rgb(2, 2, 163);
+    background-color: white;
+    border:none;
+}
+
+
+#_login
+{
+    margin-top: 45px;
+    margin-bottom: 20px;
+}
+
+#download_app
+{
+    text-align: center;
+}
+
+#inner_pic
+{
+    text-align: center;
+}
